@@ -4,7 +4,7 @@ import TabsControl from "elements/Tabs";
 import React from "react";
 import "react-tabs/style/react-tabs.css";
 
-export default function Portofolio() {
+export default function Content() {
   return (
     <section className="page-section portfolio" id="portfolio">
       <div className="container">
